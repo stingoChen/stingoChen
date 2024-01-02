@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="title" align=center>
 
-<!--
-**stingoChen/stingoChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stingoChen&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://img.shields.io/badge/code-Python-blue)
+![](https://img.shields.io/badge/Dislikes-Learning-yellow) 
+![](https://img.shields.io/badge/Personality-ENTJ-red) 
+![](https://img.shields.io/badge/Interests-Anime-pink)
+
+</div>
+
+![头像](image/56.png)
+
+![Visitor Count](https://profile-counter.glitch.me/stingoChen/count.svg)
+
